@@ -1,0 +1,6 @@
+D:\applications\My progz\calc\calc\obj\Debug\calc.csprojResolveAssemblyReference.cache
+D:\applications\My progz\calc\calc\bin\calc.dll.config
+D:\applications\My progz\calc\calc\bin\calc.dll
+D:\applications\My progz\calc\calc\bin\calc.pdb
+D:\applications\My progz\calc\calc\obj\Debug\calc.dll
+D:\applications\My progz\calc\calc\obj\Debug\calc.pdb
